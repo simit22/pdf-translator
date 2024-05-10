@@ -25,15 +25,12 @@ To install the PDF Translator Tool, you can use the following command:
 `yay -S pdf_translator`
 
 ## Usage
-
-> Usage: pdfTranslate <input_pdf_file> <output_pdf_file> <target_language>
->
-> Example: python pdf_text_extractor.py input.pdf output.pdf en
->
-> Target Language Codes example:
-> 
->  en - English | fr - French | es - Spanish
-
+```
+Usage: pdfTranslate <input_pdf_file> <output_pdf_file> <target_language>
+Example: python pdf_text_extractor.py input.pdf output.pdf en
+Target Language Codes example:
+  en - English | fr - French | es - Spanish
+```
 ## Getting Started
 
 1. Clone the repository to your local machine.
