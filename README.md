@@ -30,7 +30,8 @@ To install the PDF Translator Tool, you can use the following command:
 >
 > Example: python pdf_text_extractor.py input.pdf output.pdf en
 >
-> Target Language Codes example: en - English | fr - French | es - Spanish
+> Target Language Codes example:
+>  en - English | fr - French | es - Spanish
 
 ## Getting Started
 
