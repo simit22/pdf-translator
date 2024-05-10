@@ -38,10 +38,6 @@ Target Language Codes example:
 3. Run the tool with the specified input parameters.
 4. Retrieve the translated PDF file as output.
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the PDF Translator Tool, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
